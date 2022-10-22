@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../nginx"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../etc/nginx/sites-available"
+		}
+	],
+	"settings": {}
+}
